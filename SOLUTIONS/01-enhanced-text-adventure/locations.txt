@@ -1,0 +1,6 @@
+# Location format: id|description
+forest|You are in a dense forest. The trees are tall and the air is fresh.
+cave|You are in a dark cave. You can hear water dripping.
+village|You are in a small village. There are houses and people around.
+lake|You are at a serene lake. The water is clear and calm.
+mountain|You are on a rocky mountain path. The view is breathtaking.

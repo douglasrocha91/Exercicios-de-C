@@ -1,0 +1,8 @@
+# Item format: id|name|description|takeable
+sword|Rusty Sword|An old but serviceable sword.|true
+key|Iron Key|A heavy iron key that might open doors.|true
+bread|Loaf of Bread|A fresh loaf of bread.|true
+potion|Healing Potion|A glowing red liquid that restores health.|true
+statue|Stone Statue|An ancient stone statue. Too heavy to carry.|false
+torch|Brass Torch|A torch that provides light in dark places.|true
+map|Treasure Map|A weathered map showing the location of hidden treasure.|true
